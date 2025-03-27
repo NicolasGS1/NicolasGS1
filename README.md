@@ -18,4 +18,4 @@ Here are some ideas to get you started:
  -
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F70E&width=435&lines=I'm+Frontend+Web+Developer+)](https://git.io/typing-svg)
 ---
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,angular)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,angular,astro,php,sql,python)

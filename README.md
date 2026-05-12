@@ -36,7 +36,7 @@ Frontend-focused software developer, constantly learning new programming languag
 
 </div> 
 
-<div margin-bottom:"5px">
+<div margin-bottom:"5px" width="10px">
  
 ![](https://streak-stats.demolab.com/?user=NicolasGS1&theme=dark&hide_border=false)<br/>
 

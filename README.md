@@ -36,8 +36,17 @@ Frontend-focused software developer, constantly learning new programming languag
 
 </div> 
 
+<div margin-bottom:"5px">
+ 
 ![](https://streak-stats.demolab.com/?user=NicolasGS1&theme=dark&hide_border=false)<br/>
+
+</div> 
+
+<div margin-bottom:"5px">
+ 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NicolasGS1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div> 
 
 </div>
 
